@@ -1,4 +1,1 @@
-qing
-====
-
-to get my friends share our code
+show with all
